@@ -7,8 +7,8 @@ This project is a simple yet functional bus ticket purchasing system developed u
 This bus ticket purchasing project serves as an excellent example of how basic web technologies can be used to create a functional and user-friendly application. It lays a solid foundation for further development and expansion into a fully-featured ticket booking system.
 
 ## Usage
-![Project-Gif](https://github.com/mesbol6647/html-css-project-1/blob/main/img/Animation.gif) <br/>
-[Project-Link](https://stanlee6647.netlify.app/)
+![Project-Gif](https://github.com/mesbol6647/Bus-Seat-Purchase/blob/main/images/project.gif) <br/>
+[Project-Link](https://main--busticketpurchase.netlify.app/)
 
 Clone the project to your local machine:
 
