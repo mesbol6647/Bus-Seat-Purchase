@@ -13,4 +13,4 @@ This bus ticket purchasing project serves as an excellent example of how basic w
 Clone the project to your local machine:
 
 ```bash
-git clone https://github.com/user/example-project.git
+https://github.com/mesbol6647/Bus-Seat-Purchase.git
